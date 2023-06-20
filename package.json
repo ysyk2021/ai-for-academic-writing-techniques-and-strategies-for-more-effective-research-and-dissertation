@@ -1,0 +1,15 @@
+{
+    "name": "ai-for-academic-writing-techniques-and-strategies-for-more-effective-research-and-dissertation-writing-with-technology",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
