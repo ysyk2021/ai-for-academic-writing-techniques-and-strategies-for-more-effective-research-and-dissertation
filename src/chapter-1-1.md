@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI for Academic Writing: Understanding the Role of AI in Academic Writing
-====================================================================================================
+# Understanding the Role of AI in Academic Writing
 
 Artificial intelligence (AI) has been transforming many industries, and academic writing is no exception. In this chapter, we will introduce AI for academic writing and explore its role in the field.
 

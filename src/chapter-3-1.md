@@ -1,6 +1,4 @@
-Chapter 3: Implementing AI in Literature Review and Research: Using AI for Efficient Literature Review and Data Collection
-==========================================================================================================================
-
+# Using AI for Efficient Literature Review and Data Collection
 Artificial intelligence (AI) can be used to streamline the process of literature review and data collection in academic writing. In this chapter, we will explore how AI can be implemented to make literature review and data collection more efficient.
 
 Automated Literature Search

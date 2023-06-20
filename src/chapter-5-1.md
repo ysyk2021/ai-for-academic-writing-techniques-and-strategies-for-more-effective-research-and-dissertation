@@ -1,5 +1,4 @@
-Chapter 5: Improving Citation and Referencing with AI: AI-Driven Citation and Referencing Assistance
-====================================================================================================
+# AI-Driven Citation and Referencing Assistance
 
 Citation and referencing are critical components of academic writing, but they can also be time-consuming and tedious. Fortunately, the power of artificial intelligence (AI) can help make this process more efficient and accurate. In this chapter, we will explore how AI can assist with citation and referencing in academic writing.
 

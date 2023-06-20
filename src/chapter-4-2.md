@@ -1,5 +1,4 @@
-Chapter 4: Enhancing Writing Structure and Coherence with AI: Automated Language Polishing using AI
-===================================================================================================
+# Automated Language Polishing using AI
 
 In this chapter, we will explore how AI can be used to enhance writing structure and coherence through automated language polishing.
 
