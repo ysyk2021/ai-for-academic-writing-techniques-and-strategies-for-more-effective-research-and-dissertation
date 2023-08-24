@@ -1,4 +1,3 @@
-# Selecting the Right Tools for Your Writing Needs
 
 In this chapter, we will explore how to select the right AI-based tools and technologies for your academic writing needs.
 

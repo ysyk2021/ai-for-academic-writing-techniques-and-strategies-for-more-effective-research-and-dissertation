@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Academic Writing
-================================================================
 
 In this chapter, we will explore the available tools and technologies for AI-driven academic writing. With the rise of AI-based tools and technologies in recent years, researchers have a wide range of options to choose from when it comes to enhancing their writing practices.
 

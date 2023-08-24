@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Academic Writing
-=================================================================
 
 As AI becomes increasingly integrated into academic writing, it's essential to consider the ethical and bias implications of these technologies. In this chapter, we'll explore the importance of ethical and unbiased academic writing practices and strategies for mitigating risks and ensuring compliance.
 

@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Literature Review and Research
-============================================================
 
 In this chapter, we will explore how AI can be implemented in literature review and research to improve efficiency and effectiveness.
 

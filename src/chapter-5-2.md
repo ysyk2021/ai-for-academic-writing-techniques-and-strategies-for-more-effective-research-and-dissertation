@@ -1,4 +1,3 @@
-# Automated Bibliography Creation Using AI
 
 Proper citation and referencing are essential components of academic writing. With the help of artificial intelligence (AI), creating bibliographies and managing references has become easier and more efficient than ever before. In this chapter, we will explore how AI can improve citation and referencing in academic writing through automated bibliography creation.
 

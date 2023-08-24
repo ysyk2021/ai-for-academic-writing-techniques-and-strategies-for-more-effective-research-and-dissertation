@@ -1,5 +1,3 @@
-Chapter 5: Improving Citation and Referencing with AI
-=====================================================
 
 In this chapter, we will explore how AI can be used to improve citation and referencing in academic writing. Proper citation and referencing are essential components of academic writing, enabling researchers to credit the work of others and provide evidence for their own findings. AI-based tools and technologies can help streamline and enhance these processes.
 

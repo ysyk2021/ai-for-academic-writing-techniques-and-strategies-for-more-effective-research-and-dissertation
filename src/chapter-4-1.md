@@ -1,4 +1,3 @@
-# AI-Powered Outline and Structure Assistance
 
 In this chapter, we will explore how AI can be used to enhance writing structure and coherence through AI-powered outline and structure assistance.
 

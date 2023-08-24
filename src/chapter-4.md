@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Writing Structure and Coherence with AI
-============================================================
 
 In this chapter, we will explore how AI can be used to enhance writing structure and coherence. A well-structured and coherent paper or dissertation is essential for effective academic writing, and AI-based tools can aid in achieving these goals.
 
