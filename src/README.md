@@ -10,3 +10,7 @@ With this book, readers will gain a solid understanding of how AI can be used in
 Overall, this book is an essential resource for anyone looking to leverage the power of AI in academic writing and research. By embracing AI-driven research methods and approaches, individuals can stay ahead of the curve and achieve greater success in their academic pursuits.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
