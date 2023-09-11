@@ -1,5 +1,4 @@
-Chapter 12: Unlocking New Opportunities with AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the incredible potential of AI in unlocking new opportunities for academic writing, research, and dissertation writing. As AI technologies continue to evolve and mature, they offer researchers innovative tools and strategies that can enhance their productivity, improve their writing quality, and expand their research capabilities. This chapter examines some key areas where AI is revolutionizing academic writing and presents exciting possibilities for researchers.
 

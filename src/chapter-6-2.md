@@ -1,5 +1,4 @@
-Chapter 7: Mitigating Risks and Ensuring Compliance
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of mitigating risks and ensuring compliance when using AI for academic writing. While AI can greatly enhance research and dissertation writing processes, it is crucial to address potential risks and adhere to ethical guidelines and regulations. This chapter delves into strategies and techniques to mitigate risks associated with AI in academic writing and ensure compliance with relevant standards.
 

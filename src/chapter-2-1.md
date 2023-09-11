@@ -1,5 +1,4 @@
-Chapter 2: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various tools and technologies available for utilizing AI in academic writing. These tools and technologies offer a wide range of functionalities, from language polishing to research organization and analysis. This chapter aims to familiarize readers with the diverse options available and showcases how each tool or technology can contribute to more effective research and dissertation writing processes.
 

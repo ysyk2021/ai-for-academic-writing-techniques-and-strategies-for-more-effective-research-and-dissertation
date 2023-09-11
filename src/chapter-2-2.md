@@ -1,5 +1,4 @@
-Chapter 6: Selecting the Right Tools for Your Writing Needs
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the process of selecting the right AI-powered tools for your academic writing needs. With a wide range of tools available, it is essential to consider your specific requirements, preferences, and research goals. This chapter provides guidance on evaluating different tools and technologies, understanding their features and limitations, and making informed decisions that align with your writing objectives.
 

@@ -1,5 +1,4 @@
-Chapter 9: Automated Language Polishing Using AI
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the benefits and techniques of using AI for automated language polishing in academic writing. AI-powered tools offer valuable assistance in enhancing the clarity, coherence, and overall quality of written language. This chapter explores how AI can be leveraged to refine grammar, vocabulary, sentence structure, and style, enabling more effective communication and ensuring a polished final product in research papers and dissertations.
 

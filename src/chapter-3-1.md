@@ -1,5 +1,4 @@
-Chapter 4: Using AI for Efficient Literature Review and Data Collection
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how artificial intelligence (AI) can be leveraged to enhance the efficiency of literature review and data collection processes in academic writing. With the vast amount of research publications and data available, researchers often face challenges in efficiently identifying relevant sources and collecting necessary information. AI technologies offer innovative solutions to streamline these processes, saving time and improving the quality of literature reviews and data collection. This chapter examines the benefits, challenges, and best practices for utilizing AI in these critical stages of academic writing.
 

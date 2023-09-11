@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends in AI for Academic Writing and Research
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the emerging trends in AI for academic writing and research. As technology continues to advance rapidly, new developments and innovations are shaping the landscape of academic writing practices. By staying informed about these emerging trends, researchers can harness the full potential of AI to enhance their writing processes and stay at the forefront of academic advancements.
 

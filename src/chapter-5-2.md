@@ -1,5 +1,4 @@
-Chapter 8: Automated Bibliography Creation Using AI
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the topic of automated bibliography creation using AI. Creating accurate and properly formatted bibliographies is a crucial aspect of academic writing, but it can be time-consuming and prone to errors. AI-powered tools offer solutions to streamline this process by automating the generation of bibliographic entries, ensuring consistency, and reducing the burden on researchers. This chapter explores the benefits, challenges, and best practices for utilizing AI in automated bibliography creation.
 

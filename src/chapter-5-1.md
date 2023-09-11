@@ -1,5 +1,4 @@
-Chapter 6: AI-Driven Citation and Referencing Assistance
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the powerful capabilities of AI-driven citation and referencing assistance. Accurate and consistent citation and referencing are essential in academic writing, but they can be time-consuming and prone to errors. With the aid of AI technologies, researchers can streamline the process, ensure adherence to citation styles, and improve the overall quality of their references. This chapter explores the benefits, challenges, and best practices for utilizing AI in citation and referencing.
 
